@@ -1,0 +1,5 @@
+baseurl = "http://diceblog.greylurk.com/"
+languageCode = "en-us"
+title = "Greylurk's Dice Blog"
+theme = "gamingLounge"
+canonifyURLs = true

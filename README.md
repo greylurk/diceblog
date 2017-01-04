@@ -1,0 +1,5 @@
+Greylurk dice blog
+
+```
+hugo
+```
