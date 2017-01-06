@@ -6,7 +6,7 @@
 all: public
 
 server:
-	hugo server --build-drafts -w
+	hugo server --buildDrafts -w
 
 public: .FORCE
 	hugo 

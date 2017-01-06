@@ -1,5 +1,5 @@
-baseurl = "http://diceblog.greylurk.com/"
+baseurl = "http://diceblog.greylurk.com"
 languageCode = "en-us"
-title = "Greylurk's Dice Blog"
+title = "GM Sanctuary"
 theme = "gamingLounge"
 canonifyURLs = true

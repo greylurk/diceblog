@@ -1,7 +1,6 @@
 +++
-Categories = ["Spoilers", "Adventures"]
+categories = ["D&D", "Adventurers League"]
 Description = ""
-Tags = ["Spoilers", "Adventurer's League"]
 date = "2015-12-30T08:31:59-06:00"
 draft = true
 menu = "main"

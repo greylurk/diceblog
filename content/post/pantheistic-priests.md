@@ -1,7 +1,7 @@
 +++
-Categories = ["Fantasy Gaming", "Classes"]
+Categories = ["D&D"]
 Description = ""
-Tags = ["Cleric", "D&D", "F20"]
+Tags = ["D&D"]
 date = "2016-04-28T17:23:54-05:00"
 menu = "main"
 title = "Pantheistic Priests"
