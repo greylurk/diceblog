@@ -5,10 +5,10 @@
 
 all: public
 
-server:
+server: 
 	hugo server --buildDrafts -w
 
-public: .FORCE
+public: 
 	hugo 
 
 aws: public
@@ -17,4 +17,7 @@ aws: public
 clean: 
 	rm -rf public/*
 
-.FORCE:
+article:
+	hugo new post/${title}.md
+
+.PHONY: server public all aws clean article

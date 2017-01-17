@@ -1,5 +1,40 @@
-baseurl = "http://diceblog.greylurk.com"
+baseurl = "https://diceblog.greylurk.com"
+author = "Adam Ness"
+copyright = "&copy; 2017. All Rights Reserved"
+paginate = 10
 languageCode = "en-us"
 title = "GM Sanctuary"
-theme = "gamingLounge"
+theme = "blackburn"
 canonifyURLs = true
+
+[params]
+  # Shown in the home page
+  subtitle = "My random thoughts on Gaming"
+  brand = "Greylurk"
+  googleAnalytics = "UA-3040269-5"
+  disqus = "gm-sanctuary"
+  # CSS name for highlight.js
+  highlightjs = "androidstudio"
+  dateFormat = "02 Jan 2006, 15:04"
+
+[menu]
+  # Shown in the side menu.
+  [[menu.main]]
+    name = "Home"
+    pre = "<i class='fa fa-home fa-fw'></i>"
+    weight = 0
+    identifier = "home"
+    url = "/"
+  [[menu.main]]
+    name = "Posts"
+    pre = "<i class='fa fa-list fa-fw'></i>"
+    weight = 1
+    identifier = "post"
+    url = "/post/"
+  [[menu.main]]
+    name = "About"
+    pre = "<i class='fa fa-user fa-fw'></i>"
+    weight = 2
+    identifier = "about"
+    url = "/about/"
+
