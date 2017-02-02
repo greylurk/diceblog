@@ -4,7 +4,7 @@ copyright = "&copy; 2017. All Rights Reserved"
 paginate = 10
 languageCode = "en-us"
 title = "GM Sanctuary"
-theme = "blackburn"
+theme = "blackburn-custom"
 canonifyURLs = true
 
 [params]
@@ -16,6 +16,11 @@ canonifyURLs = true
   # CSS name for highlight.js
   highlightjs = "androidstudio"
   dateFormat = "02 Jan 2006, 15:04"
+  sidebarphoto = "themes/gamingLounge/images/osrlogo-newblack.png"
+  custom_css = ["css/diceblog.css"]
+
+[social]
+  googleplus = "AdamNess-greylurk"
 
 [menu]
   # Shown in the side menu.
