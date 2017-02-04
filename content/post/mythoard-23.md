@@ -5,7 +5,7 @@ title = "Mythoard 23"
 description = ""
 +++
 
-For those who aren't familiar, Mythoard is a monthly subscription box of RPG 
+For those who aren't familiar, [Mythoard][7] is a monthly subscription box of RPG 
 goodies that started almost 2 years ago now, and has had a lot of fantastic 
 books and materials.  
 
@@ -94,3 +94,4 @@ left turn at the fork in the road, they can make their way to something interest
 [4]: http://www.rpgnow.com/product/88098/JG-TravellerTraveller-Logbook?affiliate_id=6931
 [5]: http://www.rpgnow.com/product/88099/JG-Traveller-Referee-Screen?affiliate_id=8931
 [6]: http://www.drinkspinrun.com/
+[7]: http://www.mythoard.com/
