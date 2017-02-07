@@ -1,4 +1,4 @@
-baseurl = "https://diceblog.greylurk.com"
+baseurl = "https://diceblog.greylurk.com/"
 author = "Adam Ness"
 copyright = "&copy; 2017. All Rights Reserved"
 paginate = 10
