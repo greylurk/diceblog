@@ -1,14 +1,13 @@
 +++
 description = "1d12 More magical items that are useless to adventurers"
-topics = ["D&D", "Magic Items"]
-tags = []
+tags = ["D&D", "Magic Items"]
 draft = true
 date = "2017-02-21T06:11:14-06:00"
 title = "12 More Useless Items"
 +++
 
 1. [Writing Desk](#writing-desk)
-2. [Slow-falling Glassware](slow-falling-glassware)
+2. [Slow-falling Glassware](#slow-falling-glassware)
 
 ## <a name="writing-desk"></a> Writing Desk
 ### Wondrous Item, rare

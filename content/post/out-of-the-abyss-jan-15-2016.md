@@ -3,7 +3,6 @@ draft = true
 date = "2017-01-16T16:45:21-06:00"
 title = "Out of the Abyss 2016/1/15"
 description = ""
-topics = []
 tags = ["D&D"]
 +++
 

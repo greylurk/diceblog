@@ -2,7 +2,6 @@
 date = "2017-01-30T16:45:21-06:00"
 title = "Out of the Abyss 2017/1/29"
 description = "Notes from my bi-weekly D&D 5e Game"
-topics = []
 tags = ["D&D"]
 +++
 

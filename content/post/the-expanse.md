@@ -1,5 +1,4 @@
 +++
-topics = []
 tags = []
 date = "2017-01-12T15:17:10-06:00"
 title = "Gaming in The Expanse"

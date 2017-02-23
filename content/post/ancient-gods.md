@@ -2,7 +2,6 @@
 date = "2017-02-07T08:43:21-06:00"
 title = "Ancient Gods"
 description = "Divinty in a steady state universe"
-topics = []
 tags = ["Settings"]
 +++
 

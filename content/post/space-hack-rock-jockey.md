@@ -2,7 +2,6 @@
 date = "2017-01-13T16:50:14-06:00"
 title = "The Space Hack - Rock Jockey"
 description = ""
-topics = []
 tags = ["The Space Hack", "The Expanse"]
 +++
 

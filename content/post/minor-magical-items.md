@@ -1,7 +1,6 @@
 +++
 description = "1d12 Random Minor Magical Items"
-topics = ["D&D"]
-tags = []
+tags = ["D&D"]
 date = "2017-02-20T22:29:30-06:00"
 title = "12 Minor magical items"
 +++
