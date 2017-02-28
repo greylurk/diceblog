@@ -3,7 +3,6 @@ date = "2017-02-13T08:05:42-06:00"
 title = "Out of the Abyss 2017/2/13"
 description = "Notes from my bi-weekly D&D 5e Game"
 tags = ["D&D"]
-draft = true
 +++
 
 Notes from the Feb. 13, 2017 D&D session
