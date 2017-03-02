@@ -1,9 +1,6 @@
 {{ partial "header.html" . }}
 
-<div class="header">
-  <h1>{{ .Title }}</h1>
-  <h2>{{ .Site.Params.subtitle }}</h2>
-</div>
+<img class="header" src="/img/title.png" />
 
 <div class="content">
   {{ range ( .Paginate (where .Data.Pages "Type" "post")).Pages }}

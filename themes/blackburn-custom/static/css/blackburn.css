@@ -1,5 +1,11 @@
 .header {
-  font-family: "Raleway", Helvetica, Arial, sans-serif
+  width: 40rem;
+}
+
+@media screen and (max-width: 40rem)  {
+  .header {
+    width: 100%;
+  }
 }
 
 a {
