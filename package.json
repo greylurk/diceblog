@@ -1,0 +1,22 @@
+{
+  "name": "diceblog",
+  "version": "1.0.0",
+  "description": "Static roleplaying blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greylurk/diceblog.git"
+  },
+  "author": "Adam Ness <adam.ness@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greylurk/diceblog/issues"
+  },
+  "homepage": "https://github.com/greylurk/diceblog#readme",
+  "devDependencies": {
+    "@angular/cli": "^1.0.0-rc.1"
+  }
+}

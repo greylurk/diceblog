@@ -6,18 +6,18 @@
 all: public
 
 server: 
-	hugo server --buildDrafts -w
+	cd hugo && hugo server --buildDrafts -w
 
 public: 
-	hugo 
+	cd hugo && hugo 
 
 aws: public
-	aws s3 sync public s3://diceblog.greylurk.com --acl public-read
+	aws s3 sync dist s3://diceblog.greylurk.com --acl public-read
 
 clean: 
-	rm -rf public/*
+	rm -rf dist/*
 
 article:
-	hugo new post/${title}.md
+	cd hugo && hugo new post/${title}.md
 
 .PHONY: server public all aws clean article
