@@ -17,3 +17,12 @@ This desk, which is almost always found mounted and secured below decks in a shi
 ### Wondrous Item, uncommon
 Designed by a wizard with clumsy friends, the slow-falling glassware will not shatter against the floor when knocked off the table. Instead, these glasses will quickly right themselves, and then descend to the ground gently, and land upright, with no damage on the floor.
 
+## <a name="house-seed"></a> House Seed
+### Wondrous Item, very rare
+A small, non-descript brown and grey seed, that when planted grows over the space of an hour into a small stone-and-wood constructed house. The house is very simple, but sturdy and measures about 20' by 30', with room for about 4 people to live comfortably in.
+
+If the house is burned down, and the ground near the center of the building is dug up and searched, the seed can be found, and re-used in another place.
+
+## <a name="fruit-root"></a> Fruit Root
+### Wondrous Item, uncommon
+This woody chunk of a tree root is well  
