@@ -4,6 +4,6 @@ draft = "True"
 title = "The Black Hack Review"
 subtitle = "Lightweight OSR Fantasy"
 author = "Adam Ness"
-categories = ["Review", "OSR"]
+tags = ["Review", "OSR"]
 +++
 

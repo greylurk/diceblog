@@ -4,7 +4,7 @@ draft = false
 title = "2017 Gaming Resolutions"
 subtitle = "Kickoff"
 author = "Adam Ness"
-categories = ["Meta"]
+tags = ["Meta"]
 +++
 I'm constantly accumulating things that I *want* to do in gaming, but I almost
 never actually accomplish them. Sure, I get some things done, but usually it's 

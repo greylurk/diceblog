@@ -1,10 +1,8 @@
 +++
 title = "Out of the Abyss Feb 26"
 description = ""
-topics = []
-tags = []
+tags = ["D&D"]
 date = "2017-02-26T14:13:48-06:00"
-draft = true
 +++
 
 The party restrained the Duergar and Svirfneblin who were battling in the middle of town, and headed off to the Svirfneblin encampment.  They were able to defeat the 4 Duergar who were attacking the door quick enough that the other 8 decided to head back to the Duergar encampment to regroup and re-enforce. 

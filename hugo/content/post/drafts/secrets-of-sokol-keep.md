@@ -1,10 +1,10 @@
 +++
-categories = ["D&D", "Adventurers League"]
+tags = ["D&D", "Adventurers League"]
 Description = ""
 date = "2015-12-30T08:31:59-06:00"
 draft = true
 menu = "main"
-title = "npcs"
+title = "Secrets of Sokol Keep"
 +++
 Secrets of Sokol Keep
 =====================

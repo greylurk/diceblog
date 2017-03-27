@@ -16,7 +16,4 @@
     "url": "https://github.com/greylurk/diceblog/issues"
   },
   "homepage": "https://github.com/greylurk/diceblog#readme",
-  "devDependencies": {
-    "@angular/cli": "^1.0.0-rc.1"
-  }
 }

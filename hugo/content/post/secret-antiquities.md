@@ -1,9 +1,9 @@
-+++
-tags = []
-date = "2017-02-01T17:17:17-06:00"
-title = "Secret Antiquities"
-description = ""
-+++
+---
+tags: []
+date: "2017-02-01T17:17:17-06:00"
+title: "Secret Antiquities"
+description: ""
+---
 
 {{% fluid_img src="/post/secret-antiquities/marketing_cover.jpg" class="float-right" %}}
 

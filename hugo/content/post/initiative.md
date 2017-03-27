@@ -1,5 +1,5 @@
 +++
-Categories = ["Dungeons and Dragons"]
+tags = ["D&D"]
 date = "2017-01-05T22:35:28-06:00"
 title = "Taking the Initiative"
 Description = "An alternate system for more cinematic intiative in D&D"

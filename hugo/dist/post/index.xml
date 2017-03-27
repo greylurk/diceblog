@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GM Sanctuary</title>
+    <link>https://diceblog.greylurk.com/post/index.xml</link>
+    <description>Recent content in Posts on GM Sanctuary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017. All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 21 Mar 2017 17:17:17 -0600</lastBuildDate>
+    <atom:link href="https://diceblog.greylurk.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>So you Killed a Player Character</title>
+      <link>https://diceblog.greylurk.com/post/so-you-killed-a-pc/</link>
+      <pubDate>Tue, 21 Mar 2017 17:17:17 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/so-you-killed-a-pc/</guid>
+      <description>
+
+&lt;p&gt;Every once in a while, a novice GM pops up on the Facebook &lt;a href=&#34;https://www.facebook.com/groups/dmsandgms/&#34;&gt;GMs and DMs&lt;/a&gt; group with questions about how to deal with PCs dying in the game. Usually this is in the context of &amp;ldquo;I&amp;rsquo;ve never killed a PC before, and I&amp;rsquo;m worried the Player will not be interested in the game anymore.&amp;rdquo; While ultimately, the answer is that you&amp;rsquo;re not responsible for whether the player stays or not, almost universally, we are DMing because we enjoy hanging out and playing games with our friends, and nobody wants to hear a friend effectively say &amp;ldquo;I don&amp;rsquo;t like hanging out with you anymore.&amp;rdquo; As with most things, there&amp;rsquo;s no one &amp;ldquo;silver bullet&amp;rdquo; to keep players at your table after their PC dies, but there&amp;rsquo;s a few things you can do to decrease the likelihood that they&amp;rsquo;ll leave.&lt;/p&gt;
+
+&lt;h2 id=&#34;decide-whether-the-death-is-really-permanent&#34;&gt;Decide whether the Death is really permanent&lt;/h2&gt;
+
+&lt;p&gt;A superhero may be down and out, but not really dead. A D&amp;amp;D character can almost always be raised from the dead by a friendly Cleric. A sci-fi cyborg might have a mental backup, or a digital &amp;ldquo;ghost&amp;rdquo;. James Bond might wash up on shore, and be nursed back to health by a lovely and friendly expat who owns a villa on a nearby island. A vampire might be roused from torpor by scheming rival who now has them bloodbound&amp;hellip;&lt;/p&gt;
+
+&lt;p&gt;In any given game system and setting, there&amp;rsquo;s a dozen and one ways to say that dead doesn&amp;rsquo;t mean &amp;ldquo;dead&amp;rdquo;. Some game systems such as &lt;a href=&#34;https://fate-srd.com/fate-core/conflicts#conceding-the-conflict&#34;&gt;FATE Core&lt;/a&gt; offers a way for the characters to proactively concede the combat when things are looking dire. A concession guarantees that they won&amp;rsquo;t die, but leaves the fate of the character in the hands of the attackers. This opens up a whole realm of opportunities for the DM to come up with creative plot hooks and side quests that a simple, clean death doesn&amp;rsquo;t provide. While not all game systems provide a &amp;ldquo;concession&amp;rdquo; mechanic, like most of Fate Core, it&amp;rsquo;s &lt;em&gt;very&lt;/em&gt; easy to houserule in to any system.&lt;/p&gt;
+
+&lt;h2 id=&#34;no-chosen-ones&#34;&gt;No Chosen Ones&lt;/h2&gt;
+
+&lt;p&gt;There&amp;rsquo;s a temptation to create a world where your PCs are &amp;ldquo;Chosen&amp;rdquo; for a destiny, or are uniquely qualfied for the quest at hand. It&amp;rsquo;s a trope common to &lt;a href=&#34;http://tvtropes.org/pmwiki/pmwiki.php/Main/TheChosenOne&#34;&gt;all sorts of media&lt;/a&gt; but in an RPG. However, in RPGs that&amp;rsquo;s building a very complex structure and balancing it entirely on the fate of a few (relatively fragile) PCs. While it might work for a very short campaign, or a one shot, an adventure which requires specific PCs to complete the story, or sets up the adventure so that only PCs who start the adventure have a reason to finish it make it difficult to integrate new PCs if one of them dies, or leaves due to real-life issues, or whatever. It&amp;rsquo;s best to keep your adventure plots a bit more open ended so that you can bring in new PCs easily, just by making them interested in the current phase of the adventure.&lt;/p&gt;
+
+&lt;h2 id=&#34;maintain-a-stable-of-potential-pcs&#34;&gt;Maintain a stable of potential PCs&lt;/h2&gt;
+
+&lt;p&gt;This is a hint I picked up from Call of Cthulhu players who ran long campaigns: Have a bunch of ally NPCs who are peripherally involved in the quest, but aren&amp;rsquo;t actively questing alongside the PCs. You&amp;rsquo;re searching for a kidnapping victim, and you have encountered a local sheriff who has been very helpful in the investigation, but who has had other duties that have kept him from &amp;ldquo;adventuring&amp;rdquo; with you. When a character dies, perhaps that helpful sheriff can become a PC. As a DM you can try to make sure that you introduce a variety of NPCs who might be willing to help out the party, so when a PC dies, the NPC can join up and pick up with very little &amp;ldquo;ramp up&amp;rdquo; time on to the plot that the rest of the party is following.&lt;/p&gt;
+
+&lt;p&gt;Depending on your party makeup, this can be an easy match.  However, you&amp;rsquo;ll probably need to tailor this a lot to your game. Some players want to keep a specific &amp;ldquo;makeup&amp;rdquo; of the party, and you&amp;rsquo;ll need to decide whether you need to adjust the power level of the NPC to match the party.  Some groups might not care about a disparity in character power level, but several may be deeply concerned if they lose a 8th level fighter and pick up a 3rd level bard in their stead.&lt;/p&gt;
+
+&lt;h2 id=&#34;bookeeping&#34;&gt;Bookeeping&lt;/h2&gt;
+
+&lt;p&gt;Which kind of brings us to the &amp;ldquo;nitty gritty&amp;rdquo; part of the discussion.  Most of my points up until now have been about making sure the new PC fits in with the rest of the plotline, but it&amp;rsquo;s also important to have the new PCs fit in mechanically with the rest of the game. For games that have explicitly defined levels, you should decide whether you want to bring the new PCs in at the same level as the other PCs or not.  In general, I recommend that the new PCs come in at the same level. There are some tables where that might not be necessary.  Some players may enjoy the challenge of starting with a &amp;ldquo;fresh&amp;rdquo; low power character. It can be a lot of fun, but in general the default should probably be to bring the new characters in at the same power level as the character that they&amp;rsquo;re replacing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Out of the Abyss Feb 26</title>
+      <link>https://diceblog.greylurk.com/post/out-of-the-abyss-feb-26-2017/</link>
+      <pubDate>Sun, 26 Feb 2017 14:13:48 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/out-of-the-abyss-feb-26-2017/</guid>
+      <description>&lt;p&gt;The party restrained the Duergar and Svirfneblin who were battling in the middle of town, and headed off to the Svirfneblin encampment.  They were able to defeat the 4 Duergar who were attacking the door quick enough that the other 8 decided to head back to the Duergar encampment to regroup and re-enforce.&lt;/p&gt;
+
+&lt;p&gt;After speaking with the Svirfneblin, and checking out the warehouse very briefly, the PCs moved their army to the gnomish fungus garden, and helped gather and cremate the dead gnomes.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile Toren (currently polymorphed into a Quetzocoatlus) and Ciella set off for the Zhentarim warehouse. The two of them spotted a statue in an alcove overlooking the garden, before checking the Pavillion that was erected in the center of the garden.  They found a gathering of Drow inside, preparing to negotiate with the Zhentarim. The Drow mage seemed offended at the fact that the PCs were obviously not the full Zhent negotiating contingent, and ordered them to leave. Not willing to make a fight out of it, they did go and speak with the Zhentarims. Ghazred and Luskar were preparing to speak with the Drow.  When they had the statue in the alcove pointed out to them, they said they didn&amp;rsquo;t know what was up with it, so Toren flew up to check it out, at which point it flew away (surprise, it was a Gargoyle!).  They chased it in an aerial battle to the center of town, where a quick battle took it down.&lt;/p&gt;
+
+&lt;p&gt;Upon returning to the Zhentarim alcove, they discovered that when Luskar and Ghazred went to speak with the Drow, Luskar was asaulted by one of the Drow &amp;ldquo;bodyguards&amp;rdquo; who has since fled.  Calming down the two groups, they vowed to investigate this attempted assasination. The rest of the party joined them, and Kendal was able to track the assassin to a warehouse just outside the Duergar encampment.  Listening inside, they heard some crazy muttering from someone inside, and concluded that the assassin must have been touched by some form of madness.&lt;/p&gt;
+
+&lt;p&gt;Blocking off all entrances, they were able to quickly sneak up on the would be assassin, and capture her. They found a fist sized opal in her pouch, and Ciella pocketed the gemstone (and picked up an indefinite madness for his efforts).&lt;/p&gt;
+
+&lt;p&gt;Dragging the would be assassin back to the Zhentarim encampment, the party threw her into an unused storage shed, and questioned her with help from Luskar&amp;rsquo;s charm eye.  THey discovered that she was given a message in the form of an opal from Menzoberranzan as orderts to kill Luskar, or at least that&amp;rsquo;s how she interpreted it. Meanwhile, the Gargoyle they had previously knocked out had awoken, and started wailing in sorrow in the next shed over where he was restrained.&lt;/p&gt;
+
+&lt;p&gt;Interviewing him, they discovered that he had taken the Gem from a Gnome, and had given it to the Drow assassin as proof of his true love for her. Cue soap-opera dramatics, and some piteous wailing on the behalf of the Gargoyle.&lt;/p&gt;
+
+&lt;p&gt;Leaving punishment of the Drow to Luskan the party convened on what to do with the Gem, that they&amp;rsquo;d now determined was a powerful demon trap, and was almost certainly &amp;ldquo;full&amp;rdquo; of a &lt;em&gt;very&lt;/em&gt; powerful demon.&lt;/p&gt;
+
+&lt;p&gt;Eventually, Ciella decided to just destroy the gem, which freed Fraz-url-ab into the Abyss.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Con of the North 2017 Update</title>
+      <link>https://diceblog.greylurk.com/post/cotn-2017-update/</link>
+      <pubDate>Thu, 23 Feb 2017 07:29:06 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/cotn-2017-update/</guid>
+      <description>&lt;p&gt;President&amp;rsquo;s day weekend in Minnesota means it&amp;rsquo;s time again for Con of the North!&lt;/p&gt;
+
+&lt;p&gt;We got in a little late to Con of the North, meaning I just slid in to the 6pm Friday Call of Cthulhu game that I was running. The players were glad to see that there was &lt;em&gt;indeed&lt;/em&gt; a GM for the game, so I set about getting the game going before someone pulled a fire alarm. After that, we progressed through the adventure reasonably quickly, and it ended with the PCs figuring out what the monster was, and how to defeat it.&lt;/p&gt;
+
+&lt;p&gt;I thought about slipping in to another game after mine ended at 10pm, knowing that my wife would be busy with stuff until 2am, but I ended up just sitting and watching the last half of another DM running the same adventure in CoC as I had just wrapped up. It was fun watching how the other GM handled the stuff I had literally just finished running PCs through.&lt;/p&gt;
+
+&lt;p&gt;After that game ended at midnight, I went back to my room, chilled out a bit, and double checked my prep for the Call of Cthulhu game I was planning on running the next day at 10am.&lt;/p&gt;
+
+&lt;p&gt;The next morning I got up and went down to check out the dealers room before my game.  I played a demo of &lt;a href=&#34;http://www.warehouse23.com/products/lost-in-rlyeh&#34;&gt;Lost in R&amp;rsquo;Lyeh&lt;/a&gt; at the Atlas Games booth, and was satisfied enough with it that I picked up a copy.  I also got a chance to look at the absolutely beautiful physical copy of &lt;a href=&#34;https://unknown-armies-third-edition-roleplaying-game.backerkit.com/hosted_preorders/47510&#34;&gt;Unknown Armies 3rd Edition&lt;/a&gt; that they had there. I tried to get in to a Paranoia game, and an Unknown Armies demo, but things didn&amp;rsquo;t work out. I swung by the front desk to pick up some alternate tickets for some games, and then it was off to run my game. Things went pretty well, and I got some schwag from Chaosium to hand out to players, including a copy of &lt;a href=&#34;http://www.chaosium.com/s-petersens-field-guide-to-lovecraftian-horrors-pdf/&#34;&gt;S. Petersen&amp;rsquo;s Field Guide to Lovecraftian Horrors&lt;/a&gt; that I was loath to part with, but was able to hand off to a player that did a great job.&lt;/p&gt;
+
+&lt;p&gt;After my game, I met up with my Wife again, ate dinner, and then headed off to a game of [Everyone Is John][everyone-is-john] Celebrity Edition. We played through two rounds, where I got to be Johnny Bravo, seeking a date, and John Lenin, trying to get people to give peace a chance. The GM for the session had a whole lot of Johns printed up ahead of time, which made the game pretty fun and easy to play. It probably would have been a bit more fun if I had been drinking more, but what isn&amp;rsquo;t right?&lt;/p&gt;
+
+&lt;p&gt;The next morning, I decided to try out the &amp;ldquo;Tékumel&amp;rdquo; track, with John Till&amp;rsquo;s &amp;ldquo;The Gate to Hmakuyal&amp;rdquo;. The game was pretty fun, with an even mix of people who had never played Tékumel before, and this was probably a good game to start with, since the characters were all outsiders to Tékumel (albeit, Aztec outsiders from an alternate Earth) who had discovered a gateway into Tékumel.  It was interesting to see some of the details of what has been referred to as &amp;ldquo;The First RPG Campaign Setting&amp;rdquo;. In a world where &amp;ldquo;western&amp;rdquo; fantasy dominates the RPG market, one of the earliest RPGs out there was set in a decisively non-western setting, with science-fantasy and completely different tropes than we&amp;rsquo;re used to. Another fun bit about this game was that it was done using a hack of the &amp;ldquo;Fate Freeport Companion&amp;rdquo; rules, which is actually the first time I&amp;rsquo;ve had a chance to try out the Fate rules. It worked out reasonably well, though we didn&amp;rsquo;t give the system a good chance to stretch its legs.&lt;/p&gt;
+
+&lt;p&gt;Then it was one last pass through the dealer room, pick up a few deeply discounted board games that we had been eyeing, and back home again.  I had a great time at several of the games I played and ran, and I&amp;rsquo;m definitely looking forward to it again next year.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>12 Minor magical items</title>
+      <link>https://diceblog.greylurk.com/post/minor-magical-items/</link>
+      <pubDate>Mon, 20 Feb 2017 22:29:30 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/minor-magical-items/</guid>
+      <description>
+
+&lt;p&gt;I like handing out magical items that are &lt;em&gt;immensely&lt;/em&gt; useful in world to the average denizen of a fantasy world, but are basically useless to most PCs.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;#roofing-sealant&#34;&gt;Roofing Sealant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#stone-of-warmth&#34;&gt;Stone of Warmth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#washing-tub&#34;&gt;Washing Tub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#everfull-canteen&#34;&gt;Everfull Canteen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#portable-clearing&#34;&gt;Portable Clearing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#animated-broom&#34;&gt;Animated Broom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#polishing-cloth&#34;&gt;Polishing Cloth&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#shelf-of-preservation&#34;&gt;Shelf of Preservation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#mosquito-stone&#34;&gt;Mosquito Stone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#obedience-collar&#34;&gt;Collar of Obedience&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#navigating-pebble&#34;&gt;Navigating Pebble&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;a-name-roofing-sealant-a-roofing-sealant&#34;&gt;&lt;a name=&#34;roofing-sealant&#34;&gt;&lt;/a&gt; Roofing Sealant&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-uncommon&#34;&gt;Wondrous Item, uncommon&lt;/h3&gt;
+
+&lt;p&gt;This item is a large pot of a foul-smelling alchemical mixture. If painted on to a surface, the mixture will cover about 1000 square feet, and will dry into a shiny, black surface that is entirely water-tight as long as it isn&amp;rsquo;t damaged.  Water, ice, and snow will just slide right off of it, no matter what the surface is.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-stone-of-warmth-a-stone-of-warmth&#34;&gt;&lt;a name=&#34;stone-of-warmth&#34;&gt;&lt;/a&gt; Stone of Warmth&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-common&#34;&gt;Wondrous Item, common&lt;/h3&gt;
+
+&lt;p&gt;This item is simply a stone which is constantly warm to the touch.  While wearing this stone aginst your skin, you&amp;rsquo;re immune to environmental cold effects down to freezing.  Additonally, if you place this stone in a pot full of water (up to one gallon), the water will slowly boil, allowing you to make a fine soup or stew without lighting a fire.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-washing-tub-a-washing-tub&#34;&gt;&lt;a name=&#34;washing-tub&#34;&gt;&lt;/a&gt; Washing Tub&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-common-1&#34;&gt;Wondrous Item, common&lt;/h3&gt;
+
+&lt;p&gt;This item looks to be a simple wooden tub, just like the dozens of washing tubs found around the well in any small village. However, when a load of clothes are placed in this tub, and it is filled with water, the tub&amp;rsquo;s magic takes over, adding soap, and cleaning the clothes itself, with no outside action.  Within 10 miutes, the clothes are perfectly clean, and any small tears are repaired. The tub does not, however, dry the clothes, so they must be hung up to dry as normal.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-everfull-canteen-a-everfull-canteen&#34;&gt;&lt;a name=&#34;everfull-canteen&#34;&gt;&lt;/a&gt; Everfull Canteen&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-common-2&#34;&gt;Wondrous Item, common&lt;/h3&gt;
+
+&lt;p&gt;This appears to be a nicely constructed, though otherwise unremarkable leather canteen with a wooden stopper and spout.  It holds about one quart of water, and weighs about 3 lbs when full. If the canteen is even partly empty, and the stopper is replaced into the spout, five minutes later the canteen will be filled up again.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-portable-clearing-a-portable-clearing&#34;&gt;&lt;a name=&#34;portable-clearing&#34;&gt;&lt;/a&gt; Portable Clearing&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-uncommon-1&#34;&gt;Wondrous Item, uncommon&lt;/h3&gt;
+
+&lt;p&gt;When folded up, this appears to be simply a bolt of brown and green fabric. If the portable clearing is unrolled and unfolded in any wooded area, it will create a clearing with a radius of 40&amp;rsquo;. This clearing is flat, free of obstacles, and dry, regardless of how densely forested, uneven, and damp the area it&amp;rsquo;s in. When the clearing is rolled back up again, the terrain returns to its previous state.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-animated-broom-a-animated-broom&#34;&gt;&lt;a name=&#34;animated-broom&#34;&gt;&lt;/a&gt; Animated Broom&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-uncommon-2&#34;&gt;Wondrous Item, uncommon&lt;/h3&gt;
+
+&lt;p&gt;This average looking broom is likely the byproduct of a very bored apprentice.  When its bristles are tapped to the floor, the broom animates itself and quickly sweeps the floor in the room it&amp;rsquo;s currently standing in.  Within a minute per 10ft square, all of the dirt and dust on the floor of this room will be brushed into one large pile.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-polishing-cloth-a-polishing-cloth&#34;&gt;&lt;a name=&#34;polishing-cloth&#34;&gt;&lt;/a&gt; Polishing Cloth&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-common-3&#34;&gt;Wondrous Item, Common&lt;/h3&gt;
+
+&lt;p&gt;This is a small piece of soft cloth (approximately 1&amp;rsquo; square) which, when rubbed vigorously against any smooth surface will create an almost mirror-like shine on the surface.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-shelf-of-preservation-a-shelf-of-preservation&#34;&gt;&lt;a name=&#34;shelf-of-preservation&#34;&gt;&lt;/a&gt; Shelf of Preservation&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-common-4&#34;&gt;Wondrous Item, Common&lt;/h3&gt;
+
+&lt;p&gt;This 8&amp;rsquo; by 4&amp;rsquo; shelf is not easily portable, however any food placed on the shelf enters a sort of stasis, keeping the food fresh and edible pretty much indefinitely.  These are easily identified in ancient dungeons by the fresh vegetables and meat sitting out openly on the shelf.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-mosquito-stone-a-mosquito-stone&#34;&gt;&lt;a name=&#34;mosquito-stone&#34;&gt;&lt;/a&gt; Mosquito Stone&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-uncommon-3&#34;&gt;Wondrous Item, uncommon&lt;/h3&gt;
+
+&lt;p&gt;The Mosquito stone is a small pebble, polished through years of use, which smells faintly of oranges.  When carried on a person, no insects of &amp;ldquo;tiny&amp;rdquo; or smaller size can approach within 5&amp;rsquo; of the stone&amp;rsquo;s bearer.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-obedience-collar-a-collar-of-obedience&#34;&gt;&lt;a name=&#34;obedience-collar&#34;&gt;&lt;/a&gt; Collar of Obedience&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-common-5&#34;&gt;Wondrous Item, common&lt;/h3&gt;
+
+&lt;p&gt;This leather collar attaches easily to the end of a pole.  When slipped over the neck of a wild canine, the canine immediately becomes as docile as the average domestic dog.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-name-navigating-pebble-a-navigating-pebble&#34;&gt;&lt;a name=&#34;navigating-pebble&#34;&gt;&lt;/a&gt; Navigating Pebble&lt;/h2&gt;
+
+&lt;h3 id=&#34;wondrous-item-common-6&#34;&gt;Wondrous Item, common&lt;/h3&gt;
+
+&lt;p&gt;If this pebble is placed on a relatively flat surface, it will skip, hop, roll, and skitter towards the north side of the surface, stopping as soon as it meets any sort of obstacle.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Out of the Abyss 2017/2/13</title>
+      <link>https://diceblog.greylurk.com/post/out-of-the-abyss-feb-13-2017/</link>
+      <pubDate>Mon, 13 Feb 2017 08:05:42 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/out-of-the-abyss-feb-13-2017/</guid>
+      <description>&lt;p&gt;Notes from the Feb. 13, 2017 D&amp;amp;D session&lt;/p&gt;
+
+&lt;p&gt;Picking up from &lt;a href=&#34;https://diceblog.greylurk.com/post/out-of-the-abyss-jan-29-2016&#34;&gt;last session&lt;/a&gt; the PCs were venturing into a Goblin holdout in the underdark. I had a chance in between games to prep this a bit, so I picked a few chewy nuggets of inspriation from a goblin-based adventure from the &lt;a href=&#34;https://patreon.com/ensider&#34;&gt;En5ider&lt;/a&gt; magazine that EnWorld puts out. Oooh, and Nilbogs.&lt;/p&gt;
+
+&lt;p&gt;So, the first point for the game to pick up was Eric Tealeaf sneaking into the Goblin cavern just before the guards were able to roll a stone blocking the entrance. He stealthily followed the two goblin guards down the hallway into a large room filled with low workbenches, where a team of 10 goblins were working on a task. As the alarm was raised, the goblins split into two groups, 5 heading off to the right, and 7 heading off to the left.&lt;/p&gt;
+
+&lt;p&gt;Eric started investigating the tables while waiting for the other PCs to move the stone and enter the cavern system. Since the goblins have darkvision, the cavern system was dark. He noticed that it appeared that the workshop tables were covered entirely in little stone spheres in various stages of carving and polishing. After the other characters arrive, Eric suggests they follow the bulk of the goblins towards the left. Kendal does some tracking, and discovers that at least one set of foot prints is walking backwards everywhere it goes.&lt;/p&gt;
+
+&lt;p&gt;After a short period, they come across a fun little trap from the old &amp;ldquo;Grimtooths&amp;rdquo;: A curtain wired to drop a bunch of marbles behind them, causing them to slip and slide forward into a pit. Nothing seriously damaging, but enough to frustrate them and put them on guard for future traps.&lt;/p&gt;
+
+&lt;p&gt;Then came a corridor which had a wooden floor instead of the stone which had been prevalent up until now.  The wood floor continued on, around a corner, and to a set of stairs heading up.  Now on guard, Eric Tealeaf examined the steps closely, and discovered that the 4th step up was a trigger of some sort.  Not wanting to bother with the trap, he simply told everyone to step over it.&lt;/p&gt;
+
+&lt;p&gt;They arrived at a large chamber, with a &lt;em&gt;very&lt;/em&gt; high ceiling (100 feet at least.  As they were examinging the room, they were attacked by a Xorn which was hanging from the ceiling, to get the drop on them. The xorn wasn&amp;rsquo;t a huge challenge, but they were starting to wonder what the heck was going on here.&lt;/p&gt;
+
+&lt;p&gt;The Xorn room was a dead end, so they back-tracked to the steps.  Curious, and testing a theory, Tealeaf stood at the top of the steps and threw rocks down at the 4th step up. He connected, and the whole staircase swung down, revealing another tunnel underneat this tunnel.&lt;/p&gt;
+
+&lt;p&gt;The party progressed forward, checking for more traps as they went on.  Eventually, they discovered a room with a large sleigh in it, resting in the middle of a room, atop a circle with a mosaic tile. Four goblins are here, fitting up harnesses of some sort to the sleigh. A fight ensues, and one of the goblins leaps down onto the mosaic, and shouts &amp;ldquo;up!&amp;rdquo; and the whole assembly starts rising.  The PCs knock him out quickly, but the disc keeps rising.  There&amp;rsquo;s a few tense moments as the disc nearly crushes the sleigh, and the people on it, but eventually they realize they merely have to issue mental commands to the disc to stop it from moving vertically.&lt;/p&gt;
+
+&lt;p&gt;They progress onwards, and discover a Cockatrice pen, where there is a stone goblin, frozen where he was when the Cockatrices attacked him.  They dispatch the cockatrices, and realize they&amp;rsquo;re still short a goblin. Doubling back, they realize that if they lift up the stairs, they&amp;rsquo;ll be able to contiue on to a tunnel ahead. And there they encounter another goblin (armed with some sort of alchemical poison), and the Nilbog in a fur-lined crushed red velvet suit. They test the poison on the goblin guard, and it makes him blow up like a balloon.&lt;/p&gt;
+
+&lt;p&gt;Finally they dispatch them both, and finish clearing out the dungeon, with the new floating disc and three more vials of the goblin poison as treasure, alongside a few hundred gold worth of gems.&lt;/p&gt;
+
+&lt;p&gt;A few more days of travel, they finally arrive at Mantol Derith. Approaching silently, they are worried about the eerie silence in the marketplace, and sounds of battle from the fringes of the cave. They quickly knock out both the Svirfneblin and the Duregar that are fighting in the middle of town, and are planning on questioning them as soon as possible.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sword and Wizardry Unboxing</title>
+      <link>https://diceblog.greylurk.com/post/sword-and-wizardry-unboxing/</link>
+      <pubDate>Tue, 07 Feb 2017 19:35:19 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/sword-and-wizardry-unboxing/</guid>
+      <description>&lt;p&gt;Wow, that was quick!  I am looking foward to reading this one tonight!&lt;/p&gt;
+
+
+&lt;div class=&#34;pure-u-1&#34;&gt;
+  &lt;img class=&#34;pure-img&#34; src=&#34;https://diceblog.greylurk.com/post/sword-and-wizardry-unboxing/unboxing.jpg&#34; &gt;
+&lt;/div&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Ancient Gods</title>
+      <link>https://diceblog.greylurk.com/post/ancient-gods/</link>
+      <pubDate>Tue, 07 Feb 2017 08:43:21 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/ancient-gods/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been pondering world-building a lot recently. I&amp;rsquo;m mostly running games in pre-built universes for now, but every once in a while I get the world-building itch. So recently, when a discussion of the difference between creator gods of the various different races popped up on one of the forums I read regularly, it triggered a few thoughts that I wanted to explore.&lt;/p&gt;
+
+&lt;p&gt;First off, if two or more cultures have creation stories involving different gods, they can&amp;rsquo;t both be right. At least one of them must have a flawed understanding of the truth, because you can&amp;rsquo;t have one universe created solely by two different gods. So, either there&amp;rsquo;s one &lt;em&gt;true&lt;/em&gt; creator god, and most of the cultures out there just fail to understand it correctly, or maybe they&amp;rsquo;re &lt;em&gt;all&lt;/em&gt; wrong.  Maybe there&amp;rsquo;s no actual creator god at all&amp;hellip; Maybe all of the creator gods are just making up a mythology to make themselves seem more important. And if that&amp;rsquo;s true, does the universe actually have a creation point at all?&lt;/p&gt;
+
+&lt;p&gt;Now, in the real world, our understanding of Entropy and the laws of Thermodynamics tell us that the universe must have an end, and thus almost certainly has a beginning as well. However, not too long ago, we actually thought that a &amp;ldquo;steady state&amp;rdquo; universe might be much more likely, where the universe has neither beginning nor end, but just an eternal, unending universe. But Entropy isn&amp;rsquo;t a thing in a universe where a few simple finger waggles can redistribute heat enough to create a wall of ice, or a fireball. Conservation of mass and energy have no place in most fantasy worlds.&lt;/p&gt;
+
+&lt;p&gt;Now, if the universe has neither beginning nor end, that means that the old story of a creator god is complete bunk. In a fantasy universe, gods are proven to exist, you can cast spells to talk to them, and you can summon demons, angels, and the spirits of the dead who can act as direct intermediaries. So, if the gods exist, but weren&amp;rsquo;t around before the world, that means that they must have arisen &lt;em&gt;after&lt;/em&gt; the world was formed. Now add into that that the fact that each race, and even each culture has its own gods. This means that gods must arise from each race and culture independently. Somehow, when Elves established themselves on the face of the planet, Elvish gods arose, either as legendary Elves, or as independent spiritual beings who attached themselves to the Elves, and &amp;ldquo;adopted&amp;rdquo; them as their people. Either way, the gods of various cultures are either immortal, or at least incredibly long lived.&lt;/p&gt;
+
+&lt;p&gt;Now, another trope of fantasy that plays into this in an interesting way is the idea of &amp;ldquo;dead&amp;rdquo; cultures. In traditional D&amp;amp;D, there have been dozens of civilizations that came before humanity: The Gith, The Illithid, Dragons, Aboleth, the Netherese, and so forth. In Hyperborea, there are the Voormis and the Gnophkeh. In Lovecraft&amp;rsquo;s mythos, there&amp;rsquo;s a wide array of ancient races who have inhabited earth before mankind: The Elder Things, the Serpent People, the Deep Ones, the Shoggoths, the Mi-Go, and that&amp;rsquo;s just the tip of the cyclopean temple. With the mythic structure we&amp;rsquo;ve established above, the gods of these dead cultures are still present.  They&amp;rsquo;re still wandering around the spiritual realms, bored, lonely, and probably upset that their worshippers are gone. This can be a fantastic source of conflict in the game. The gods of the Gith are probably doing their level best to re-establish the dominance of the Gith on the prime material plane. Tsathuogga has been hatching plots to sieze land from Crom&amp;rsquo;s followers for the Voormis to re-establish their kingdom.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Secret Antiquities</title>
+      <link>https://diceblog.greylurk.com/post/secret-antiquities/</link>
+      <pubDate>Wed, 01 Feb 2017 17:17:17 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/secret-antiquities/</guid>
+      <description>
+&lt;div class=&#34;float-right&#34;&gt;
+  &lt;img class=&#34;pure-img&#34; src=&#34;https://diceblog.greylurk.com/post/secret-antiquities/marketing_cover.jpg&#34; &gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;Today I just happened across &lt;a href=&#34;http://secretantiquities.blogspot.com/2017/01/the-battle-to-control-america-beginsnow.html?m=1&#34;&gt;Secret Antiquities&lt;/a&gt;, Which appears to be a
+zine about running &lt;a href=&#34;http://www.rpgnow.com/product/101050/Dungeon-Crawl-Classics-RPG?affiliate_id=6913&#34;&gt;Dungeon Crawl Classics&lt;/a&gt; set in America, with High
+Weirdness added into the mix. Kind of an &amp;ldquo;Unknown Armies&amp;rdquo; meets &amp;ldquo;Werewolf the
+Apocalypse&amp;rdquo;. While my feelings on Dungeon Crawl Classics are kind of mixed,
+I have a copy of it, and modern games with alternate occult history are a
+special sort of wonderful for me.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll definitely be picking this up from Lulu.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mythoard 23</title>
+      <link>https://diceblog.greylurk.com/post/mythoard-23/</link>
+      <pubDate>Wed, 01 Feb 2017 17:16:40 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/mythoard-23/</guid>
+      <description>
+
+&lt;p&gt;For those who aren&amp;rsquo;t familiar, &lt;a href=&#34;http://www.mythoard.com/&#34;&gt;Mythoard&lt;/a&gt; is a monthly subscription box of RPG
+goodies that started almost 2 years ago now, and has had a lot of fantastic
+books and materials.&lt;/p&gt;
+
+&lt;p&gt;I just got my shipment of Mythoard 23, and found some delightful bits.&lt;/p&gt;
+
+&lt;h2 id=&#34;creature-components-volume-1-1&#34;&gt;&lt;a href=&#34;http://www.drivethrurpg.com/product/194503/Creature-Components-Vol-1?affiliate_id=6913&#34;&gt;Creature Components: Volume 1&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;The first book that caught my attention was the Creature Components: Volume 1.
+Material Components have always been a fascinating feature of D&amp;amp;D. The
+common fantasy trope of that &amp;ldquo;one special component&amp;rdquo; that is needed to make a
+spell effective is such a powerful thread, but the way it&amp;rsquo;s implemented in D&amp;amp;D
+and it&amp;rsquo;s descendents is frequently pretty booring. Either the DM ignores it, or
+the game provides &amp;ldquo;Component Pouches&amp;rdquo;, or the like, and it just never gets the
+attention it deserves. Creature Components though, takes an interesting approach
+to the problem by providing a list of creatures from the Pathfinder bestiary
+and ideas on how to use parts of them as &amp;ldquo;supplementary&amp;rdquo; components that can
+do things like increase the range, or caster level, or simply add some additional
+effects to the spell. Now, this creates a list of min/max options that I&amp;rsquo;m leery
+to hand over to players, &amp;ldquo;Oh, we&amp;rsquo;re doing a water adventure, and I&amp;rsquo;m a fire
+caster? I&amp;rsquo;m going to go stock up on Dragon Turtle breath glands!&amp;ldquo;. The first
+chapter of the book has several fantastic hints on how to introduce harvested
+components to your group without worrying too much about profit-minded
+murderhobos flooding the economy with owlbear gizzards.&lt;/p&gt;
+
+&lt;h2 id=&#34;ponyfinder-ghost-of-the-pirate-queen-2&#34;&gt;&lt;a href=&#34;http://www.drivethrurpg.com/product/177069/Ponyfinder--Ghost-of-the-Pirate-Queen?affiliate_id=6913&#34;&gt;Ponyfinder - Ghost of the Pirate Queen&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m not a &amp;ldquo;brony&amp;rdquo;, but i&amp;rsquo;ve followed the development of Ponyfinder and
+Ponyfinder: 5th age with a bit of bemusement. A lot of my ideas on what
+roleplaying and fantasy should be like are based on the cartoons I watched as a
+kid, so I think it&amp;rsquo;s good that someone is keeping the tradition alive. A
+previous Mythoard netted me a few of &lt;a href=&#34;http://www.playgroundadventures.net/&#34;&gt;Playground Adventures&lt;/a&gt;&amp;rsquo;s other adventures
+but this is the first Ponyfinder one, and I continue to be impressed with their
+delivery of games using the Pathfinder rules (I believe they also do 5e versions
+now as well) aimed specifically at children. Ghost of the Pirate Queen has a few
+decidedly childish aspects (Some very simple, but informatitve riddles, a puzzle
+that won&amp;rsquo;t challenge most folks past Jr. High, etc), but it&amp;rsquo;s well written, and
+has a few interesting plot twists. There&amp;rsquo;s plenty of stuff for adults to enjoy in
+this adventure as well.&lt;/p&gt;
+
+&lt;p&gt;One of the aspects of the module that I like a lot is that each encounter has
+ways to resolve the encounter through diplomacy and/or trickery, and it&amp;rsquo;s
+explicitly stated that the DM should give equal XP regardless of whether the
+enemies are defeated through brawn, diplomacy, or trickery. This keeps the
+childlike atmosphere around the game, and definitely fits with the nonviolent
+themes of the My Little Pony Tv show. All in all, while it&amp;rsquo;s clearly intended
+as an adventure for younger kids (6 and up?), it could be a good time for some
+adults approaching it with an open mind.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-traveller-logbook-4&#34;&gt;&lt;a href=&#34;http://www.rpgnow.com/product/88098/JG-TravellerTraveller-Logbook?affiliate_id=6931&#34;&gt;The Traveller Logbook&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mythoard appears to have come across a big collection of old printed Judges
+Guild stuff, and this is a fun little treasure. This is a 64 page booklet
+is largely composed of blank character sheets, and blank ship record sheets
+for the old GDW version of Traveller.  It&amp;rsquo;s a fun throwback to when we
+couldn&amp;rsquo;t just go find a PDF on the game publisher&amp;rsquo;s site, and run it off on
+our laser printer. Also, the first dozen or so pages are a repeat of the
+character generation tables in the book. It&amp;rsquo;s always nice to have an extra copy
+of that at the table.&lt;/p&gt;
+
+&lt;h2 id=&#34;traveller-referee-screen-5&#34;&gt;&lt;a href=&#34;http://www.rpgnow.com/product/88099/JG-Traveller-Referee-Screen?affiliate_id=8931&#34;&gt;Traveller Referee Screen&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Another of the old Judge&amp;rsquo;s Guild prints, this is a bright green folded DM screen,
+with player stats on one side, and DM relevant info on the other.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-horrid-echoes-of-the-blue-blade&#34;&gt;The Horrid Echoes of the Blue Blade&lt;/h2&gt;
+
+&lt;p&gt;This mini-adventure doubles as the checklist for this hoard.  It&amp;rsquo;s a fun little haunted house (inn?)
+adventure built for characters of 1-3 level. It&amp;rsquo;s probably most compatible with Pathfinder, but
+converting it to any D&amp;amp;D variant would probably take all of about 10 mninutes. This is from the folks at
+&lt;a href=&#34;http://www.drinkspinrun.com/&#34;&gt;Drink, Spin, Run&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;adventure-hook-card-4&#34;&gt;Adventure Hook Card #4&lt;/h2&gt;
+
+&lt;p&gt;This is the 4th in a set of Mythoard exclusive items.  This is basically just a very short, small adventure hook, and locale. It&amp;rsquo;s a small card you can slip into your dice-box so when the PCs take an unexpected
+left turn at the fork in the road, they can make their way to something interesting.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Out of the Abyss 2017/1/29</title>
+      <link>https://diceblog.greylurk.com/post/out-of-the-abyss-jan-29-2016/</link>
+      <pubDate>Mon, 30 Jan 2017 16:45:21 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/out-of-the-abyss-jan-29-2016/</guid>
+      <description>&lt;p&gt;Notes from the Jan. 29, 2016 D&amp;amp;D session&lt;/p&gt;
+
+&lt;p&gt;Started off with a bit of bookeeping in Gauntlgrym, where the PCs decided they
+needed to speak with Trevion Stonechalk, a dwarf working for the Granitespike
+family who had contact with Jaezred and owes him some money. Trevion gave them
+some details on Gravenhollow, namely that they should speak with the Stone
+Giants to find the route there.  He said that he had held the Kybere in his
+hands, and knew that it was evil. It was being taken to Gravenhollow for
+safe keeping, and he didn&amp;rsquo;t think that Jaezred should have it.&lt;/p&gt;
+
+&lt;p&gt;After speaking with Trevion, a few other folks purchased some stuff. Corlin
+bought a kit of vials and chemicals to preserve various bits and pieces that he
+was planning to retrieve from defeated enemies. Troy&amp;rsquo;s character bought a wagon with a cage on it.&lt;/p&gt;
+
+&lt;p&gt;Then they set off.  The route to Mantol Derith starts off with 6 days of
+overland transport, which progresses uneventfully.  During that time however,
+[Marc&amp;rsquo;s Character]&amp;rsquo;s Basilisk egg hatches, so he starts to lag behind the
+party. On the 6th day, they reach the secret Zhentarim entry to the underdark,
+and give the password to get in. They&amp;rsquo;re warned that about a day&amp;rsquo;s worth of
+travel in is well patrolled, but any farther than that they&amp;rsquo;ll be on their own.&lt;/p&gt;
+
+&lt;p&gt;After about 3 days of travel, they find a relatively nice cavern to set up camp
+but pretty briefly, someone notices a drow warning sign scribed into the wall.
+Exploring the back of the cavern, they discovered a small passageway that led
+into a dark cavern, crowded with stalactites and stalagmites. Within a few
+dozen feet, the party was attacked by a group of Shadow Demons. The Shadow
+Demons were quickly dispatched by the Paladin and the cleric of Light, though
+two of them did manage to escape. After continuing into the cavern, they
+discovered Bruthwahl Firehands - a Duregar driven mad by Orcus. He had a set of
+human corpses he was experimenting on (for loose meanings of the word
+&amp;ldquo;experimenting&amp;rdquo;), and a pair of Drow corpses in a cavern towards the back.
+Kendal ultimately executed Bruthwahl.&lt;/p&gt;
+
+&lt;p&gt;A few more days of travel, there&amp;rsquo;s a deep chasm (~300ft deep, ~300 feet wide)
+with a broken bridge across it. While the PCs could cross it with their riding
+lizards, the wagon and the faction troops necessitate using a trail down into
+the chasm. At the base of it, Troy&amp;rsquo;s character noticed a noise to the side, and
+went off to chase it. A few other characters surrounded the disturbance, and
+discovered that it was a trio of escaped Shield Dwarves who had been slaves of
+the Drow: Bori, Kinlan, and Firi Flintnose. After some hemming and hawing about
+whether it was safe to trust the dwarves with the password to return to the
+surface through the Zhentarim stronghold, the PCs eventually convinced the
+three dwarves to join them.&lt;/p&gt;
+
+&lt;p&gt;Finally, about 10 days out from Mantol Derith, the PCs were treated to finding a good location to hole up, A cavern with a natural pair of defense platforms on either side of it, flanking a very tight bottleneck entry to another deeper cavern. However, as they approached it, they discovered that not only was it easily defensible, but it was actually defended by some goblins. The PCs decided to attempt to assault the fortifications, and Tealeaf slinked through the door as the rest of the party was arming up.  The Goblins rolled a stone across the entry way, just after Tealeaf entered, and game was called then.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Out of the Abyss 2016/1/15</title>
+      <link>https://diceblog.greylurk.com/post/out-of-the-abyss-jan-15-2016/</link>
+      <pubDate>Mon, 16 Jan 2017 16:45:21 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/out-of-the-abyss-jan-15-2016/</guid>
+      <description>&lt;p&gt;Notes from the Jan. 15, 2016 D&amp;amp;D session&lt;/p&gt;
+
+&lt;p&gt;The game picked up with Uthgar and Kendal negotiating with Autie Bertha to keep Uthgar&amp;rsquo;s home intact. Bertha&amp;rsquo;s gout is temporarily alleviated by Kendal&amp;rsquo;s magics, but she&amp;rsquo;s still getting old and is looking for a way to retire and support herself. Uthgar offers to let her stay at his house, so she can sell her own house, and live off of the profits, with the caveat that she not molest/touch Grandfather Thornbeard&amp;rsquo;s beard, which is preserved in state on the wall of the house. She agrees, and the party returns to the apartment they&amp;rsquo;ve been allocated for thier visit. Kreve is passed out on the floor.&lt;/p&gt;
+
+&lt;p&gt;Corlin and Marc&amp;rsquo;s Character went off to search for good stuff outside the city.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Space Hack - Rock Jockey</title>
+      <link>https://diceblog.greylurk.com/post/space-hack-rock-jockey/</link>
+      <pubDate>Fri, 13 Jan 2017 16:50:14 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/space-hack-rock-jockey/</guid>
+      <description>
+
+&lt;p&gt;The Expanse focuses pretty heavily on characters who are scrabbling out an existence at the edges of society and the solar system: Belters whose survival depends entirely on making do with little to nothing, Naval officers who burned out of the service, washed up cops, and so forth. While you &lt;em&gt;could&lt;/em&gt; just make a game with a whole party full of Scoundrels, i&amp;rsquo;d like to have a bit more variety in the party. So, I&amp;rsquo;m throwing together a &amp;ldquo;Rock Jockey&amp;rdquo; class.&lt;/p&gt;
+
+&lt;p&gt;Rock Jockeys represent the grease-monkey industrial types who mostly spend their life in the shipping lanes, making runs between Ceres, the Rings of Saturn, and Eros, hauling 10,000 ton blocks of ice from where they&amp;rsquo;ve been floating since the solar system formed to human population centers in the belt. Most Rock Jockeys are belters, never having experienced full earth gravity in their life. Even those who grew up on Earth or Mars have spent enough time scooting around rocks in free-fall to understand how things move in zero-g. Rock Jockeys are used to making do with jury-rigged parts and decrepit ships. It may not look pretty, but it&amp;rsquo;ll keep the vaccum out, and keep them alive until they can make it back to the shipping lanes.&lt;/p&gt;
+
+&lt;h1 id=&#34;rock-jockey&#34;&gt;Rock Jockey&lt;/h1&gt;
+
+&lt;p&gt;aka Ice-Hauler, Pilot, Greasemonkey&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Starting HP:&lt;/strong&gt; 1d4+4&lt;br /&gt;
+&lt;strong&gt;HP per level/Resting:&lt;/strong&gt; 1d4&lt;br /&gt;
+&lt;strong&gt;Weapons and Armor:&lt;/strong&gt; All Pistols, Flight Jacket, Light Armor&lt;br /&gt;
+&lt;strong&gt;Attack Damage:&lt;/strong&gt; 1d6/1d4 unarmed&lt;/p&gt;
+
+&lt;h2 id=&#34;special-abilities&#34;&gt;Special Abilities&lt;/h2&gt;
+
+&lt;p&gt;Rolls with &lt;strong&gt;Advantage&lt;/strong&gt; when testing &lt;strong&gt;DEX&lt;/strong&gt; to avoid damage from outsiders or environmental effects when in zero-g.&lt;/p&gt;
+
+&lt;p&gt;Rolls with &lt;strong&gt;Advantage&lt;/strong&gt; when repairing any sort of mechanical device or electronics. Once per day, may repair a damaged ship for 1d6 &lt;strong&gt;HP&lt;/strong&gt;.
+When a Rock Jockey is acting as Pilot or Co-Pilot for a ship carrying cargo and their ship takes damage from a &lt;strong&gt;Dex&lt;/strong&gt; attack, the Rock Jockey may choose to sacrifice the cargo to avoid the damage.&lt;/p&gt;
+
+&lt;h2 id=&#34;leveling-up&#34;&gt;Leveling Up&lt;/h2&gt;
+
+&lt;p&gt;Roll to see if attributes increase, roll twice for &lt;strong&gt;DEX&lt;/strong&gt; or &lt;strong&gt;CON&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gaming in The Expanse</title>
+      <link>https://diceblog.greylurk.com/post/the-expanse/</link>
+      <pubDate>Thu, 12 Jan 2017 15:17:10 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/the-expanse/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been watching the Sy-Fy TV Series &amp;ldquo;The Expanse&amp;rdquo; recently, and found it very
+interesting.  Doing some cursor research reveals that the original author was
+writing the setting as an MMO which never made it out of the &amp;ldquo;pitch&amp;rdquo; stage, then
+translated it to a play-by-post forum RPG, and it is now a book series, and an
+ambitious TV series.&lt;/p&gt;
+
+&lt;p&gt;For those of you who haven&amp;rsquo;t come across the books or TV show yet, the basic plot
+is that mankind has expanded into the solar system, establishing a Martian colony
+and a series of smaller colonies in the asteroid belt and orbiting some of the
+outer planets. The Earth and Mars are the established super-powers of the solar
+system, with Earth ruled by the UN, and having a sizeable, well supported, but
+slightly technically inferior navy, and Mars having a smaller, but better equipped
+and trained navy. While I wouldn&amp;rsquo;t call the situation between them a &amp;ldquo;cold war&amp;rdquo;,
+they are at very least tense rivals. Meanwhile, the &amp;ldquo;belters&amp;rdquo; are the third leg
+in the precariously balanced solar system. The Belt is nominally controlled by
+Earth and Mars, or at least by corporations based on one of the &amp;ldquo;inner planets&amp;rdquo;,
+but there is a rising power in the model of the PLO, or the IRA: One part
+terrorist network, one part organized crime syndicate, one part legitimate
+government, the Outer Planets Alliance or OPA works to establish economic
+independence for the Belters.&lt;/p&gt;
+
+&lt;p&gt;In other words, the setting isn&amp;rsquo;t much new.  It clearly draws a lot from Larry
+Niven&amp;rsquo;s solar system politics, blended a bit with the politicial tensions of
+Peter Hamilton&amp;rsquo;s &amp;ldquo;Night&amp;rsquo;s Dawn&amp;rdquo; universe, and Frederick Pohl&amp;rsquo;s &amp;ldquo;Hechee&amp;rdquo; series.
+That isn&amp;rsquo;t to say that it&amp;rsquo;s boring, but just that there&amp;rsquo;s a lot of themes to
+echo, and the authors do a good job of pulling the good bits from a lot of
+different places. This makes it a great place to game in, because the players
+don&amp;rsquo;t have to have read the specific source material of The Expanse novels,
+they just have to have read at least a few of the big, well known sci-fi series
+of the last 50 years.&lt;/p&gt;
+
+&lt;p&gt;Now originally, I wanted this post to be about how I would adapt &lt;a href=&#34;http://www.rpgnow.com/product/148169/White-Star-White-Box-Science-Fiction-Roleplaying-Swords--Wizardry?affiliate_id=6913&#34;&gt;White Star&lt;/a&gt;
+&lt;a href=&#34;http://www.rpgnow.com/browse.php?keywords=traveller&amp;amp;affiliate_id=6913&#34;&gt;Traveller&lt;/a&gt;, &lt;a href=&#34;http://www.rpgnow.com/product/187763/The-Space-Hack?affiliate_id=6913&#34;&gt;The Space Hack&lt;/a&gt;, &lt;a href=&#34;http://www.rpgnow.com/product/93603/Bulldogs-Fate-Classic-Edition?affiliate_id=6913&#34;&gt;Bulldogs (Fate)&lt;/a&gt; or &lt;a href=&#34;http://www.rpgnow.com/product/86467/Stars-Without-Number-Free-Edition?affiliate_id=6913&#34;&gt;Stars Without Number&lt;/a&gt; to run this
+setting but I&amp;rsquo;ve kind of hit a wall. None of those are exactly appropriate for
+running this universe. All of them make various assumptions (FTL travel,
+psionic or magical powers, specific styles of galactic government, etc)
+so any modification ends up being a bit more than just toss some names
+on existing classes, and call it good.&lt;/p&gt;
+
+&lt;p&gt;So instead, over the next few weeks, I&amp;rsquo;m going to do a series on how I&amp;rsquo;d
+adapt specific aspects of several different game systems in order to make
+an &amp;ldquo;Expanse&amp;rdquo; roleplaying game.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Taking the Initiative</title>
+      <link>https://diceblog.greylurk.com/post/initiative/</link>
+      <pubDate>Thu, 05 Jan 2017 22:35:28 -0600</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/initiative/</guid>
+      <description>&lt;p&gt;One of my least favorite aspects of D&amp;amp;D is what I call the &amp;ldquo;Conga Line of Death&amp;rdquo; initiative system.  At the beginning of the combat (or turn in earlier editions), you figure out what order everyone is going to act in, and then no matter what happens &amp;ldquo;mid round&amp;rdquo;, the characters proceed to act one after the other in the order established previously, like dancers in a conga line.  This is easy for the DM to track, as they can just have an ordered list like a baseball lineup, calling each &amp;lsquo;hitter&amp;rsquo; up to bat in order. But there are a few big problems with it. First off, it&amp;rsquo;s boring. We know that Bob is going to act after the goblin each turn, no matter whether the goblin is doing something quick or not. Secondly, it leads to bizarre tactical decisions among the PCs (and NPCs) based on the known order of operations. You get situations where the PCs &lt;em&gt;know&lt;/em&gt; that they can optimize healing by positioning the cleric last in the initiative, etc. Third, due to the circular nature of rounds, having a high initiative only matters the first round. After the first round, PCs with high initiatives just act in order, just like everyone else.  They&amp;rsquo;re stuck in the same deathly conga line as the slow initiative people, who ironically get to act right before they do. Finally, the whole system creates these weird situations where the PCs start combat by firing arrows at the wary enemies, but because the enemies rolled high on initiative, the PCs don&amp;rsquo;t get to fire their arrows until all of the bad guys have acted!&lt;/p&gt;
+
+&lt;p&gt;To solve these problems, I&amp;rsquo;ve been throwing around a few ideas. The current system that I&amp;rsquo;m playtesting with my regular 5e group is what I&amp;rsquo;m calling &amp;ldquo;taking the initiative&amp;rdquo;. Basically, whoever &amp;ldquo;starts&amp;rdquo; combat with their action gets to go first by default. Anyone who wants to interrupt them can &amp;ldquo;take the initiative&amp;rdquo; from them by rolling an initiative check against the person who &lt;em&gt;has&lt;/em&gt; the intitiative&amp;rsquo;s static initiative.  So, for example, Bob declares he is firing an arrow at Orky McOrkerson.  Orky has an initiative modifier of +2, and Bob has an initiative modifier of +6.  Orky decides to try to take the initiative, and must make an initiative check at DC 16 in order to act before Bob.  He rolls a 17, +2 is 19, so he&amp;rsquo;s taken the initiative! Orky scrambles for cover behind a rock, and returns fire. Bob is stymied temporarily. After you act, you choose an enemy to pass initiative to, and play continues back and forth between the two sides until you run out of enemies who haven&amp;rsquo;t acted yet this round, in which case you pass it to an ally who hasn&amp;rsquo;t acted this round. If you&amp;rsquo;re out of enemies and allies, then the round resets.  This interacts just fine with the &amp;ldquo;reaction&amp;rdquo; mechanic in 5e, and people can still use their reactions to interrupt enemy actions for free, without needing to take the initiative. Tracking rounds is done quite easily with the same sorts of mechanisms as you&amp;rsquo;d use for standard initiative. You have a whiteboard with the combatants listed on it, and just put a check mark next to each of them when they act in the round.  Once they&amp;rsquo;ve all got checkmarks, erase the checkmarks and start again.  If you&amp;rsquo;re using &amp;ldquo;screen hangers&amp;rdquo; to track initiative, just have all the people who have already acted over on the left side, and those who haven&amp;rsquo;t on the right. Once they&amp;rsquo;ve acted, just move them all over the right and start again.&lt;/p&gt;
+
+&lt;p&gt;I think this makes combat a lot more dynamic and interesting, instead of the static, boring initiative system that&amp;rsquo;s been &amp;ldquo;traditional&amp;rdquo; for most of D&amp;amp;D and Pathfinders&amp;rsquo; life.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2017 Gaming Resolutions</title>
+      <link>https://diceblog.greylurk.com/post/2017-gaming-resolutions/</link>
+      <pubDate>Tue, 03 Jan 2017 20:03:33 -0500</pubDate>
+      
+      <guid>https://diceblog.greylurk.com/post/2017-gaming-resolutions/</guid>
+      <description>
+
+&lt;p&gt;I&amp;rsquo;m constantly accumulating things that I &lt;em&gt;want&lt;/em&gt; to do in gaming, but I almost
+never actually accomplish them. Sure, I get some things done, but usually it&amp;rsquo;s
+the low-hanging fruit, and I feel like I need a place to write them down, and
+actually make some progress on them.&lt;/p&gt;
+
+&lt;p&gt;So, here, in no particular order is the stuff I want to do in 2017:&lt;/p&gt;
+
+&lt;h2 id=&#34;start-a-gaming-blog&#34;&gt;Start a gaming blog&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been planning on launching a gaming blog for a few years now, and I
+haven&amp;rsquo;t managed to actually get it off the ground. I&amp;rsquo;m hoping to get at &lt;em&gt;least&lt;/em&gt; two major updates a week.&lt;/p&gt;
+
+&lt;h2 id=&#34;publish-a-gaming-pdf&#34;&gt;Publish a Gaming PDF&lt;/h2&gt;
+
+&lt;p&gt;With the launch of the &lt;a href=&#34;http://www.dmsguild.com/browse.php?affiliate_id=6913&#34;&gt;DM&amp;rsquo;s Guild&lt;/a&gt; and the similar storefronts for Cypher System and Unknown Armies, and the like, there&amp;rsquo;s a big opportunity for self-publishing some gaiming accessories. I&amp;rsquo;d like to get something out on OneBookShelf or one of their competitors in order to see if I can do it.&lt;/p&gt;
+
+&lt;h2 id=&#34;run-a-few-of-my-backlog-games&#34;&gt;Run a few of my &amp;ldquo;backlog&amp;rdquo; games&lt;/h2&gt;
+
+&lt;p&gt;Hello, my name is Adam, and I&amp;rsquo;m a Kickstarter Junkie. In the last few years, I&amp;rsquo;ve kickstarted at least a dozen new RPGs that I have yet to even run a single game of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/averyalder/monsterhearts-2&#34;&gt;Monsterhearts 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/1921129910/bluebeards-bride&#34;&gt;Bluebeard&amp;rsquo;s Bride&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/evilhat/fate-core&#34;&gt;Fate Core&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/montecookgames/the-strange-a-tabletop-rpg-by-bruce-cordell-and-mo&#34;&gt;The Strange&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/sandandsteam/iron-edda-war-of-metal-and-bone-for-fate-coretm&#34;&gt;Iron Edda: The War of Metal &amp;amp; Bone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/676918054/amazing-adventures-rpg&#34;&gt;Amazing Adventures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/676918054/victorious-the-role-playing-game&#34;&gt;Victorious&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/432417423/shadow-of-the-demon-lord&#34;&gt;Shadow of the Demon Lord&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/montecookgames/no-thank-you-evil-a-game-of-make-believe-for-famil&#34;&gt;No Thank you Evil&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/1409961192/dcc-rpg-4th-printing&#34;&gt;Dungeon Crawl Classics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/johnwickpresents/7th-sea-second-edition&#34;&gt;Seventh Sea 2nd Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/226674021/apocalypse-world-2nd-edition&#34;&gt;Apocalypse World 2nd Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/atlasgames/unknown-armies-third-edition-roleplaying-game&#34;&gt;Unknown Armies 3rd Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/504288855/mashed-a-korean-war-mash-rpg&#34;&gt;M.A.S.H.E.D.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/froggodgames/swords-and-wizardry-complete-rulebook-3rd-printing&#34;&gt;Swords and Wizardry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kickstarter.com/projects/joehills/pitfalls-and-penguins-first-printing&#34;&gt;Pitfalls and Penguins&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That&amp;rsquo;s a lot of games, and I haven&amp;rsquo;t played any of them. I&amp;rsquo;ve &lt;em&gt;read&lt;/em&gt; most of them, and pulled ideas from them into the other games I&amp;rsquo;m running, but I haven&amp;rsquo;t run or played in any of them as written. That sucks. I really want to start chipping away at the list of un-played games this year.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
