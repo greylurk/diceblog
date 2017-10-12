@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+
+<div class="header">
+  <img src="{{ $.Site.BaseURL }}img/title.png" alt="{{ .Title }} {{ .Site.Params.subtitle }}">
+</div>
+
+<div class="content">
+  {{ range ( .Paginate (where .Data.Pages "Type" "post")).Pages }}
+    {{ .Render "summary"}}
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+
+</div>
+
+{{ partial "footer.html" . }}
