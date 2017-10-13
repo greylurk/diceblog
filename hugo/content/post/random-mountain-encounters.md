@@ -1,7 +1,7 @@
 ---
 title: "Random Mountain Encounters"
 date: 2017-10-12T08:35:36-05:00
-draft: false
+tags: ['OSR', 'D&D']
 ---
 
 I'm currently running [The Moon is a Mirror](http://blog.trilemma.com/2017/02/the-moon-is-mirror.html)
