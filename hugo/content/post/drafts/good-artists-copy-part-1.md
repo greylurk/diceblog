@@ -1,0 +1,25 @@
++++
+title = "Good Artists Copy Part 1"
+date = "2018-08-21T08:21:00-05:00"
+tags = ["World Building", "Sci-Fi", "Creativity"]
+draft = true
+topics = []
+description = "Using sources that aren't fantasy to build fantasy worlds"
++++
+
+One of the standard pieces of advice that you see in almost every GM section of every roleplaying game is "Steal plots from TV, Books and Movies".  And it's clear that many RPG writers have taken that advice to heart.  D&D, the grad-daddy of all RPGs is a good mix of Conan, Farfahd and the Grey Mouser, Rhialto the Marvellous, and of course, a smattering of Tolkien, which were all various levels of Fantasy stories. But Gary and Dave also drew inspiration from Zorro movies, horror authors like H.P. Lovecraft, various westerns and sci-fi TV shows, and even [a bag of bad dinosaur toys](http://diterlizzi.com/essay/owlbears-rust-monsters-and-bulettes-oh-my/).
+
+So, how do you take a TV Show which is clearly not fantasy, and use it for inspiration for your D&D game? Well, let's look at some piece of popular media and see what we can do.
+
+I'm going to use the Books and TV show of "The Expanse" as a base, which is kind of cheating since it was originally a roleplaying game, then adapted to books and TV, but we're talking about basically plagarizing other media anyhow, so we won't get too hung up on intellectual honesty.
+
+So, what elements can we steal from "The Expanse", in order to build our fantasy setting? Let's start by coming up with a summary of what I found neat and interesting about The Expanse.
+
+First off, there's the big, over-arching setting of the Expanse. Earth has become the corrupt, wealthy insane planet that cyberpunk has told us it eventually will be. Corporations determine their own law, using their nearly limitless wealth, while the razor-thin middle class lives far removed from civilization, and the squalid poverty stricken slums cluster around the corporations, subsisting on their cast-offs. Earth has entered "late stage capitalism" and the Government is riddled throughout with corporate cronies who play the whole system like a puppet show. Meanwhile, Mars is a "planned economy" an entire nation of workers, who all contribute what they can for the shared good of the commuity.  While their scientific advancesments can't quite match those of the adventuresom capitalists of Earth, their regimented, authoritarian system has created a military that drives fear into the heart of the corrupt Earth regime. And finally, we have the "third world" Outer Planet Alliance (O.P.A.). A hardscrabble collection of people who, for several generations have chosen to eschew both the corrupt inner planet governments and the relative safety of Mars and Earth in order to make a life mining rare minerals and water amongst the asteroid belt. The O.P.A. might have noble goals, but as with any frontier society, they tend towards direct action and violence to solve their problems.
+
+Now, into that volatile mix of crony capitalism, authoritarian militarism, and violent libertarianism, inject something new, which none of them has ever dealt with: an alien life form that threatens all of them, but each of them secretly (or not so secretly) hopes to use against the others to accomplish their goals. The Protomolecule and the gate nexus are the most terrifying part of The Expanse universe, because they are deeply unknown, and uncaring about humanity. Much like the alien gods of H.P. Lovecraft, they represent forces man was not meant to understand or know. It's clear that the protomolecule's creators intended them to destroy all life on Earth hundreds of millions of years ago, and that it's purely an accident that saved mankind before such a thing even existed.
+
+And finally, on top of that inject a diverse crew with a variety of talents: A captain from Earth, who hates the corruption of the Earth government; a technician from Earth who has seen the worst that Earth's slumas have to offer; a Belter engineer, sick of the violence that the O.P.A. chooses to make its halmark; and a Martian pilot who fled from Mars because he couldn't get along with the most basic building block of Martian society, his own wife and children. Plus a few other drop in guest stars: A Belter detective who has seen the worst of the O.P.A. and what they will do to win their freedom; A Martian gunnery sargent whose whole unit was killed in a bioweapon test in part covered up and possibly even authorized by her own government; A Belter scientist whose daughter was kidnapped by the Earth company who built the Bioweapon and only wants her back; A politically savvy, vicious and crude Earth politician who actually *does* want the best for all of Earth's people, but is being targeted by her own government; and a military general turned civil administrator from Earth, who has defected from Earth to help the O.P.A. become a legitimate force in the solar system.
+
+And that's just the background world building. Let's see what we can do with that, before we go in depth into specific story elements.
+
