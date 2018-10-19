@@ -1,0 +1,17 @@
++++
+title = "What was Lovecraft Scared Of?"
+date = "2018-10-19T08:21:00-05:00"
+tags = ["Horror", "Lovecraft", "Creativity"]
+topics = []
+description = "Some musings on Lovecraftian Horror"
++++
+
+I've been awful at updating my blog, so I'm going to take a new tack at updating it.  I'm going to post more stuff, but less edited, less polished stuff.  I'm just going to start throwing junk up there, with half-finished thoughts and musings that might not make much sense.  It's kind of exploring the whole "Just write something." Have fun reading it.
+
+A lot of ink has been spilled over Lovecraft's racism and misogyny, and I'm sure that a cursory examination of the internet will expose you to a large corpus of discussion. I'm not interested in rehashing that discussion, but I'm interested in what kind of fertile fictional ground might be tilled ajacent to it. For the purposes of this discussion, I'll stick to the largely non-controversial point of view that H.P. Lovecraft at least distrusted, if not outright feared, non-european and specifically non-anglo cultures and beliefs.
+
+It's easy to look back on Lovecraft's fears today and see them as "unenlightened". It turns out that the beliefs of Pacific Islanders, while different from the beliefs of Victorian England are clearly not linked to worship of alien intelligences intersted in mankind only in so far as to whether humans taste better with a cream sauce or a tomato sauce. However, what if we flip the narrative on its head. The Irish aren't sitting on barrow mounds appeasing ancient secret ghoul cultures with human sacrifice to keep them from boiling up and consuming god-fearing Anglicans. And the Tibetan folks aren't actually hiding in the mountainous cold and dark from fungi based on Pluto.
+
+Thinking a bit about Delta Green though, I came upon an interesting thought: Lovecraft was focused on what might happen if humanity somehow learned things that it was not supposed to know. In the Delta Green game, it explores the idea of Majestic: a government organization dedicated to "weaponizing" the unclean geometries and dangerous technologies of the the Cthulhu mythos. And then there's the Laundry Files, Charles Stross' blender full of Hitchikers Guide to the Galaxy, James Bond, and H.P. Lovecraft. What if Einstein, Turing, Hawking, Rosenberg and the rest were actually just bringing revelations from the non-anglo sources that Lovecraft feared into the mainstream of American/Western European culture. We definitely should consider that the modern world in all of it's loud, modernist, technological glory (not to mention it's multi-cultural acceptance) would probably terrify Lovecraft. It's a common complaint among modern readers when first exposed to Lovecraft that his work just isn't really that scary.  Maybe that's because we're inured to the horror of his work by the horror of the everyday that we exist with.
+
+So, what can we do with this revelation in game? I don't know. It sounds boring, and rather messed up to run a game where the protagonists in an alternate 20's or 30's or even 1970's fight against the modernization of the room because they see more clearly the Lovecraftian horror that is slowly leeching into the world, becoming more commonplace. But maybe it could be interesting to see some throwback to the 20's (Possibly put in some sort of stasis) who recoils in disgust at humanity's modern acceptance of Lovecraftian Horrors.
