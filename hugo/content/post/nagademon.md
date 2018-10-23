@@ -1,8 +1,8 @@
 +++
-tags = ["Sci-Fi"]
-date = "2018-10-20T15:17:10-06:00"
-title = "Should I let a PC die?"
-description = "Whose fault is it that the PCs died?"
+tags = ["NaGaDeMon"]
+date = "2018-10-23"
+title = "NagaDemon 2018 - Five Spells"
+description = "Summoning the NaGaDeMon"
 +++
 
 I'm committing today to doing [NaGaDeMon](https://www.facebook.com/groups/nagademon/) in November. I have an idea for writing up a system/guidebook for creating limited magic settings that I refer to as "Five Spells" settings. The idea came from a convention game that a friend ran years ago at a convention connected to the Enigma roleplaying game club from Los Angeles. 
