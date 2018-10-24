@@ -3,8 +3,8 @@
   <img class="pure-img" src="{{ .Get "src" }}" {{ if or (.Get "alt") (.Get "caption") }}alt="{{ with .Get "alt"}}{{.}}{{else}}{{ .Get "caption" }}{{ end }}"{{ end }}>
   <div class="">
     {{ if .Get "original_source" }}<a href="{{ .Get "original_source"}}">{{ end }}
-    {{ if .Get "original_title" }}{{ .Get original_title }}{{ else }}Photo{{ end }}
-    { if .Get "original_source" }}</a>{{ end }}
+    {{ if .Get "original_title" }}{{ .Get "original_title" }}{{ else }}Photo{{ end }}
+    {{ if .Get "original_source" }}</a>{{ end }}
     {{ if .Get "author" }} by
       {{ if .Get "author_profile" }}<a href="{{ .Get "author_profile"}}">{{ end }}
       {{ .Get "author" }}
