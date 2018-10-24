@@ -3,7 +3,6 @@ date = "2018-10-24"
 title = "Types of Spells"
 description = "Thoughts about general types of spells in D&D"
 tags = ["NaGaDeMon", "5 Spells"]
-draft = true
 +++
 
 I'm trying to come up with a way of thinking how the existence of various spells might affect the world around them for my [NaGaDeMon](/nagademon) project. Here's a first draft of my current thoughts.
