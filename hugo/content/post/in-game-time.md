@@ -1,0 +1,20 @@
++++
+tags = ["Worldbuilding", "Anachronism"]
+date = "2018-10-28"
+title = "In game timekeeping"
+description = "Some thoughts on how your PCs keep time"
++++
+
+I had an extended conversation today with some coworkers about whether 12am is Noon or Midnight. Apparently the "official" answer is "Just write Noon or Midnight, don't write 12am or 12pm, because they're confusing."
+
+But this brought up a few thoughts on time in gaming worlds that I've had over the last few months. We're kind of spoiled in the modern era in that in the 1800's we got nice standardized timekeeping devices and time zones, and the like. We're all so used to the inevitable tick of the clock that we think that's how it's always been, but through a lot of history, timekeeping and calendar keeping was a very loose and shaky thing that most people couldn't be bothered to deal with. 
+
+For example, in the Roman era, daylight was always 12 hours long, and night was 4 "watches" long. But what about summer, where the sun rises at 4am, and sets at 10pm you ask? To a Roman, that didn't make sense.  The sun rose at Dawn, and set at Dusk, and the length of an hour (and watch) changed from one day to the next.  In the middle of summer, hours were literally longer, and in the winter, an hour might last only 45 minutes (if the Romans used minutes, which they didn't). And romans counted the time during the day as hours after dawn, so what we call "noon" would actually be "at the 6th hour".
+
+Of course, the Romans weren't unaware of timekeeping at a smaller scale. The Greeks had water clocks, and the Romans didn't hesitate to copy them, but it was largely used in court, not by the common folk. The same was generally true in many other cultures (China, India, Egypt, etc.).
+
+By the 5th century, Chinese clock-making had advanced to allow "standardized" hours regardless of season. By 9th century the Chinese were using mercury instead of water to run their clocks, preventing freezing. In the 11th century, Arab and Chinese engineers built chiming clock towers, and there's some evidence that they might have made their way to Europe as well around that time, but they didn't really become popular until the 15th century. Most D&D games have a technology level from the 14th or 15th century, so while the average adventurer might have an expectation of knowing at least the hour of day if they're in a large town, most villagers, and certainly any barbarians or orcs aren't going to have a much more refined timekeeping system than "Dawn, Morning, Noon, Afternoon, Dusk, Night".
+
+This also brings up the idea of how Adventurers track time while on the road. "Watches" in the modern sense (pocketwatches or wristwatches) weren't invented until the 18th century, which puts them firmly into the "anachronism" territory for most D&D games, especially since there's very little reason for a D&D character to *need* such an accurate time measure. Water Clocks, hour-glasses, clock-candles and other such devices aren't likely to be much use when travelling. Especially when Adventurers spend several days in a larger dungeon, or gods forbid the Underdark, how are they to know when it's Dawn or Night on the surface to memorize their spells? How does the rogue who takes the first watch know that it's been 3 hours, and that they need to wake up the barbarian to take second watch? How does the wizard who cast his hour duration spell a while ago keep track of when that spell is going to expire?
+
+Obviously in most cases you'll want to hand wave those details for an adventuring party, but for a underdark campaign, it may be fun to have the PCs slowly "lose sync" with the circadian rhythms of the upper world. After an extended dungeon crawl into the catacombs under the Temple of Elemental Evil, they discover that when they thought they'd emerge from the complex into daylight, it's instead darkest night. Especially if they're emerging pursued by light-sensitive folks like vampires, this could become a vitally important detail.
