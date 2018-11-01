@@ -1,0 +1,14 @@
++++
+tags = ["D&D", "Worldbuilding"]
+date = "2018-11-01"
+title = "Giving Alignment Teeth"
+description = "A Battle for the Soul of Reality"
++++
+
+Alignment is an oft maligned holdover from the wargaming beginnings of D&D, where you could look at a PC or NPC and determine literally what team they were on by the alignment on their sheet.  That's why Alignment Languages were a thing: When coordinating military action, everyone on the same team has to speak the same language.
+
+Your alignment in early D&D wasn't just how you acted, it was literally what team you were on in the grand cosmic war. Forgotten realms, and most of the 2e settings dropped this aspect of the game, but a Manichean battle for control of the world was more important in the game than "does my paladin kill baby goblins?"
+
+However, in modern D&D, we've moved towards a more "Realistic" view of characters actions and motives. Instead of a cosmic battle for the soul of reality, we've got a bunch of people just trying to make their way in the world, fighting against people who might be trying to kill them. It's convenient to label the PCs as "good" and the people trying to kill them as "evil", but without the "team" aspect of alignment it ends up being a vestigial mechanic that is a poor substitute for actual characterization and motivation. We tend to fall into the "Lawful Good people generally act like this..." and "Most Evil people are greedy and self-serving..." platitudes, but overall those tend to be very weak statements.
+
+If you want to play up the importance of Alignment in your game, you could bring more of that Manichean battle back to D&D. The gods and the PCs, and the fiends and celestials and monsters all serve these abstract ideals of good, law, chaos, or evil, and are doing their best to make sure that their "side" is victorious.  Make "Detect Evil" over into "Detect Enemy", and just have it give a red aura to anyone who isn't the exact same alignment. Make the characters swear oaths of allegiance to their alignments, and establish in-world organizations (inquisitors, etc) whose job is to keep their team morally pure and orthodox, by "re-educating" and "absolving the sins of" alignment oath transgressors. Maybe every city, village and town, not to mention fortress and dungeon has a clear, well defined allegiance to one of the alignments, and the priesthood and militia work hand in hand to ensure that alignment orthodoxy is maintained. Perhaps visitors and traders of other alignments are allowed to visit a city, but are restricted to certain areas or "ghettos". This could quickly become a dystopian fantasy world, but what's the point of having an unrealistic mechanic like alignment if you're not going to have it affect the society and world which the mechanic exists in?
