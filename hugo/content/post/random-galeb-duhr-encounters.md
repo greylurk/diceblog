@@ -6,10 +6,10 @@ tags: ['OSR', 'D&D']
 
 # 1d6 Galeb Duhr
 
-{{% fluid_img src="/post/random-galeb-duhr-encounters/face-on-a-rock.jpg" class="float-right" %}}
+![](/post/random-galeb-duhr-encounters/face-on-a-rock.jpg)
 
 Here's a few options on how to flesh out the 1d6 Galeb Duhr from my
-[Random Mountain Encounters](random-mountain-encounters.html). Instead of the
+[Random Mountain Encounters](/post/random-mountain-encounters/). Instead of the
 standard way of just counting how many of the creature to encounter, here's
 a list of unique different types of the creature. You can roll on here
 multiple times if you feel like it, or just go with a single roll.

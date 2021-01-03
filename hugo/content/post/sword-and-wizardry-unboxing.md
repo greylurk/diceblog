@@ -6,5 +6,5 @@ tags = ["Swords and Wizardry"]
 +++
 Wow, that was quick!  I am looking foward to reading this one tonight! 
 
-{{% fluid_img src="/post/sword-and-wizardry-unboxing/unboxing.jpg" %}}
+![](/post/sword-and-wizardry-unboxing/unboxing.jpg)
 

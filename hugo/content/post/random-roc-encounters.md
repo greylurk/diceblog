@@ -6,10 +6,10 @@ tags: ['OSR', 'D&D']
 
 # 1d4 Rocs
 
-{{% fluid_img src="/post/random-roc-encounters/Rocweb.jpg" class="float-right" %}}
+![](/post/random-roc-encounters/Rocweb.jpg)
 
 Here's a few options on how to flesh out the 1d4 Rocs from my
-[Random Mountain Encounters](random-mountain-encounters.html).
+[Random Mountain Encounters](/post/random-mountain-encounters/).
 
 ## 1) Recent Kill
 

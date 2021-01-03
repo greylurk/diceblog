@@ -5,7 +5,7 @@ title: "Secret Antiquities"
 description: ""
 ---
 
-{{% fluid_img src="/post/secret-antiquities/marketing_cover.jpg" class="float-right" %}}
+![](/post/secret-antiquities/marketing_cover.jpg)
 
 Today I just happened across [Secret Antiquities][1], Which appears to be a 
 zine about running [Dungeon Crawl Classics][2] set in America, with High

@@ -7,7 +7,7 @@ draft: true
 
 # 2d6 Dwarven Guards
 
-{{% fluid_img src="/post/random-roc-encounters/Rocweb.jpg" class="float-right" %}}
+![](/post/random-roc-encounters/Rocweb.jpg)
 
 Continuing off my random encounter riff, here's a few ways to add 2d6 Dwarven
 Guards to an encounter.

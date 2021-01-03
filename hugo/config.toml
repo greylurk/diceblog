@@ -1,12 +1,14 @@
 baseurl = "https://diceblog.greylurk.com/"
 author = "Adam Ness"
-copyright = "&copy; 2017. All Rights Reserved"
+copyright = "&copy; 2021. All Rights Reserved"
 paginate = 10
 languageCode = "en-us"
 title = "GM Sanctuary"
-theme = "blackburn-custom"
+theme = "m10c"
 canonifyURLs = true
 publishdir = "../dist"
+menu_item_separator = "|"
+
 
 [params]
   # Shown in the home page
@@ -21,7 +23,6 @@ publishdir = "../dist"
   custom_css = ["css/diceblog.css"]
 
 [social]
-  googleplus = "AdamNess-greylurk"
 
 [menu]
   # Shown in the side menu.
