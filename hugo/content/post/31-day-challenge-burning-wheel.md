@@ -4,7 +4,7 @@ draft = false
 title = "31 Day Character Creation Challenge Day 1"
 subtitle = "Burning Wheel"
 author = "Adam Ness"
-tags = ["Character Creation Challenge", "Burning Wheel"]
+tags = ["Character-Creation-Challenge", "Burning-Wheel"]
 +++
 
 This is the first day of 2021, and I stumbled across Tim Brannans [31 day character challenge](http://theotherside.timsbrannan.com/2020/11/followfriday-new-year-new-character.html), and so I put together a schedule of 31 different new systems that I wanted to make a character in.  First up is "Burning Wheel", whose name pops up in various "indie" circles from time to time, as one of the foundational works in that world. Its taken me a while to get to it, but I picked up a copy of it last year, and now I'm finally having a chance to dig into it.

@@ -2,7 +2,6 @@
 tags = ["D&D"]
 Description = ""
 date = "2016-04-28T17:23:54-05:00"
-menu = "main"
 title = "Pantheistic Priests"
 draft = true
 +++

@@ -1,6 +1,6 @@
 +++
 description = "My favorite 3 days of gaming in Minneapolis"
-tags = ["Conventions", "Con of the North"]
+tags = ["Conventions", "Con-of-the-North"]
 date = "2017-02-23T07:29:06-06:00"
 title = "Con of the North 2017 Update"
 +++

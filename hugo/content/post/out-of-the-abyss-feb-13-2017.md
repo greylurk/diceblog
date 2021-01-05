@@ -29,5 +29,5 @@ Finally they dispatch them both, and finish clearing out the dungeon, with the n
 
 A few more days of travel, they finally arrive at Mantol Derith. Approaching silently, they are worried about the eerie silence in the marketplace, and sounds of battle from the fringes of the cave. They quickly knock out both the Svirfneblin and the Duregar that are fighting in the middle of town, and are planning on questioning them as soon as possible.
 
-[1]: /post/out-of-the-abyss-jan-29-2016
+[1]: {{< ref "out-of-the-abyss-jan-29-2016.md" >}}
 [2]: https://patreon.com/ensider

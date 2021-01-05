@@ -5,7 +5,7 @@ description = "Thoughts about general types of spells in D&D"
 tags = ["NaGaDeMon", "5 Spells"]
 +++
 
-I'm trying to come up with a way of thinking how the existence of various spells might affect the world around them for my [NaGaDeMon](/post/nagademon) project. Here's a first draft of my current thoughts.
+I'm trying to come up with a way of thinking how the existence of various spells might affect the world around them for my [NaGaDeMon]({{< ref "nagademon.md" >}}) project. Here's a first draft of my current thoughts.
 
 Offensive/Defensive Spells
 ---

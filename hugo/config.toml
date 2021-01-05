@@ -1,28 +1,26 @@
 baseurl = "https://diceblog.greylurk.com/"
-author = "Adam Ness"
 copyright = "&copy; 2021. All Rights Reserved"
-paginate = 10
+paginate = 5
 languageCode = "en-us"
 title = "GM Sanctuary"
 theme = "m10c"
 canonifyURLs = true
 publishdir = "../dist"
-menu_item_separator = "|"
-
+googleAnalytics = "UA-3040269-5"
+disqusShortname = "gm-sanctuary"
 
 [params]
-  # Shown in the home page
-  subtitle = "My random thoughts on Gaming"
-  brand = "Greylurk"
-  googleAnalytics = "UA-3040269-5"
-  disqus = "gm-sanctuary"
-  # CSS name for highlight.js
-  highlightjs = "androidstudio"
+  author = "Adam Ness"
+  description = "My random thoughts on Gaming"
+  avatar = "osrlogoblue.png"
+  menu_item_separator = " | "
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/greylurk"
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/greylurk"
   dateFormat = "02 Jan 2006, 15:04"
-  sidebarphoto = "img/osrlogoblue.png"
-  custom_css = ["css/diceblog.css"]
-
-[social]
 
 [menu]
   # Shown in the side menu.
@@ -32,6 +30,10 @@ menu_item_separator = "|"
     weight = 0
     identifier = "home"
     url = "/"
+  [[menu.main]]
+    name = "Tags"
+    identifier = "tags"
+    url = "/tags/"
   [[menu.main]]
     name = "Posts"
     pre = "<i class='fa fa-list fa-fw'></i>"

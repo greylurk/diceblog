@@ -1,7 +1,7 @@
 +++
 date = "2018-03-13"
 description = "1d12 More magical items that are useless to adventurers"
-tags = ["D&D", "Magic Items"]
+tags = ["D&D", "Magic-Items"]
 title = "12 More Useless Items"
 +++
 
