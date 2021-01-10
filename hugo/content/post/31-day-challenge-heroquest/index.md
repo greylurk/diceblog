@@ -1,5 +1,5 @@
 +++
-date = "2021-01-04"
+date = "2021-01-10"
 draft = false
 title = "31 Day Character Creation Challenge Day 5"
 subtitle = "HeroQuest Glorantha"
@@ -18,7 +18,12 @@ So, here's the steps in the book to "Create a Hero As-You-Go":
 1) Choose a Character Concept, stated as Distinguishing Characteristc, and an Occupational Keyword. I think I'll go with "The Industrious Craftsman". 
 2) Choose a Cultural keyword, start it at 13.  I'm going to go with Estrolian Culture, which means I guess my people are good at seafaring, trade, and quick wits. That also gives me some sample male names, so I'll go with Irillo.
 3) Choose a Community you have a tie with. I'm envisioning Irillo as a city-dweller. Possibly the kind of person who has close ties to other craftsmen, possibly a mentor to younger craftsmen, and a network of former mentors of his own. Nochet, the capitol of Estrolia is known as a cosmopolitan city, so I will say his community is the Nochet Craftsman district, with a rating of 13. 
-4) Choose an Occupational keyword. it starts at 17
+4) Choose an Occupational keyword (Craftsman). it starts at 17 
 5) Choose your runes. Runes, for the folk of Glorantha are the source of your soul, your magic, and your power. People are born to their runes, making them something like Astrological signs, but in the game, they affect the world. It's common for Estrolian men to have Air as one of their runes, but I don't think that quite fits for his Element sign. I'm actually going to go with Fire, which is a rune of loyalty, honesty, purity and leadership. Second is the Power rune, and I think the most appropriate for Irillo would be Truth, the rune of truth, knowledge, and writing. Finally, I pick the rune of Trade. Irillo is good at getting people what they want, and in turn getting the best goods for the value. Beyond that, he also is a firm believer in the continuity of knowledge, passing down important lessons to the next generation. I'll assign Truth at 1(mastery), Fire at 17, Trade at 13.
 6) Give your Distinguishing Characteristic a 17. So "Industrious" at 17.
-7) Now 5 additonal abilities. There's no list of abilities, so I'm just going to make up a few like "Builder of quality boats", "A reputation for honesty", "Artistic Eye", "Friends in every Port", and "
+7) Now 5 additonal abilities. There's no list of abilities, so I'm just going to make up a few like "Builder of quality boats", "A reputation for honesty", "Artistic Eye", "Friends in every Port", and "Strong Arm", These start at 13.  
+8) Spend 12 extra points on my existing keywords/runes/abilities.  I kind of want to be social with this character, so I might spend 8 to bring my "Friends in every port" up to 1(mastery). Then 4 left to bring my Fire sign up to 1(mastery) too. 
+9) Describe 3 flaws. I'm thinking of "Overly Trusting", "Past his Prime", as I'm envisioning Irillo as a bit older, and maybe something kind of random like "Afraid of Horses".  Unlikely to come up often, but proviedes the GM with good grist for the "downturns" 
+10) Give your hero a name. Seriously, why do games keep putting this stage last. It helps me think about the character if I have a name first, not last. Ugh. 
+
+Overall, i like this character generation.  It's like a slightly more complex and number-driven version of Fate, but yields a little more variation. I might have to check out the "QuestWorld" SRD, and see if it's worth adapting to some of the other settings/systems that I'm interested in. 
