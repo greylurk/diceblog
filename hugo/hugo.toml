@@ -1,13 +1,15 @@
 baseURL = "https://diceblog.greylurk.com/"
 copyright = "&copy; 2021. All Rights Reserved"
-paginate = 5
 languageCode = "en-us"
 title = "GM Sanctuary"
 theme = "m10c"
 canonifyURLs = true
 publishdir = "../dist"
-googleAnalytics = "UA-3040269-5"
+googleAnalytics = "G-L7VW230HL5"
 disqusShortname = "gm-sanctuary"
+
+[pagination]
+  pagerSize = 5
 
 [params]
   author = "Adam Ness"
@@ -17,17 +19,26 @@ disqusShortname = "gm-sanctuary"
   favicon = "/favicon.ico"
   [[params.social]]
     name = "github"
+    icon = "brand-github"
     url = "https://github.com/greylurk"
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/greylurk"
+    name = "bluesky"
+    icon = "brand-bluesky"
+    url = "https://bsky.app/profile/greylurk.bsky.social"
+  [[params.social]]
+    name = "x"
+    icon = "brand-x"
+    url = "https://x.com/greylurk"
+  [[params.social]]
+    name = "mastodon"
+    icon = "brand-mastodon"
+    url = "https://tabletop.social/@greylurk"
   dateFormat = "02 Jan 2006, 15:04"
 
 [menu]
   # Shown in the side menu.
   [[menu.main]]
     name = "Home"
-    pre = "<i class='fa fa-home fa-fw'></i>"
     weight = 0
     identifier = "home"
     url = "/"
